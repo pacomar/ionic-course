@@ -1,0 +1,7 @@
+{
+  "name": "CiberTemplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
